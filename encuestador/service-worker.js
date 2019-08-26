@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/qciema/encuestador/precache-manifest.310335b0929e66e815440eddfdb46804.js"
+  "/qciema/encuestador/precache-manifest.32b1c4253adaae4c6cdea4325288b29f.js"
 );
 
 self.addEventListener('message', (event) => {
